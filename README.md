@@ -1,1 +1,1 @@
-# Edição no READme para a aula deQualidade de Software
+# Edição no READme para a aula de Qualidade de Software
