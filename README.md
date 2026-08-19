@@ -1,1 +1,1 @@
-# Edit teste
+# Edição no READme para a aula deQualidade de Software
